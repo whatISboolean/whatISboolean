@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @whatISboolean
 - 👀 I’m interested in doing nothing
-- 🌱 I’m currently learning code in sleep
+- 🌱 I’m currently learning code while sleeping
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me at syahmi.adib@yahoo.com
 
