@@ -2,7 +2,7 @@
 - 👀 I’m interested in doing nothing
 - 🌱 I’m currently learning something
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me at syahmi.adib@yahoo.com
+- 📫 How to reach me at syahmi.adib@live.com
 
 <!---
 whatISboolean/whatISboolean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
