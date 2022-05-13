@@ -1,16 +1,16 @@
-<h3 title="hehehe"> Hey 👋, I'm Jaskirat!</h3>
+<h3 title="hehehe"> Hey 👋, I'm whatISboolean!</h3>
 
-<a href="https://www.linkedin.com/in/jaskirat-singh-009348178">
-  <img align="left" alt="Jaskirat's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/muhamad-syahmi-adib-mohd-suhaidi-ba593b1b0/">
+  <img align="left" alt="whatISboolean's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/jaskirat.mokha/">
-  <img align="left" alt="Jaskirat's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/?hl=en">
+  <img align="left" alt="whatISboolean's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/profile.php?id=100009175092863">
-  <img align="left" alt="Jaskirat's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://www.facebook.com">
+  <img align="left" alt="whatISboolean's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://twitter.com/jas_script">
-  <img align="left" alt="Jaskirat's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
+<a href="https://twitter.com">
+  <img align="left" alt="whatISboolean's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
 </a>
 
 
@@ -26,11 +26,10 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a CSE Undergrad student at GTBIT, GGSIPU
-- 🌱 I’m currently exploring JAVA with a big interest in JAVA applets and Data Structures and Algorithms. 
-- 🤔 My interest lies in front end web development.
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [jsmokha33@gmail.com](mailto:jsmokha33@gmail.com).
+- 👨🏽‍💻 I’m currently a Fullstack Developer.
+- 🌱 I’m currently exploring C# and Asp.NET development.
+- 🤔 My interest lies in anythng but coding.
+- 📫 Email me at [syahmi.adib@live.com](mailto:syahmi.adib@live.com).
 
 
 
