@@ -26,7 +26,7 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a Fullstack Developer.
+- 👨🏽‍💻 I’m working as Fullstack Developer.
 - 🌱 I’m currently exploring C# and Asp.NET development.
 - 🤔 My interest lies in anythng but coding.
 - 💞️ I’m looking to collaborate on anything
