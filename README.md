@@ -29,6 +29,7 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 - 👨🏽‍💻 I’m currently a Fullstack Developer.
 - 🌱 I’m currently exploring C# and Asp.NET development.
 - 🤔 My interest lies in anythng but coding.
+- 💞️ I’m looking to collaborate on anything
 - 📫 Email me at [syahmi.adib@live.com](mailto:syahmi.adib@live.com).
 
 
